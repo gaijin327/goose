@@ -34,7 +34,7 @@ serde = { version = "1.0", features = ["derive"] }  # For serialization
 serde_yaml = "0.9"
 tempfile = "3"
 etcetera = { workspace = true }
-rand = "0.8.5"
+rand = "0.10.3"
 rustyline = "15.0.0"
 tracing = { workspace = true }
 chrono = "0.4"
